@@ -69,7 +69,7 @@ export default {
 	
 	.autocomplete {
     position: relative;
-    width: 130px;
+    width: 100%;
   }
 
   .autocomplete-results {
