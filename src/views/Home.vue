@@ -1,7 +1,7 @@
 <template>
   <div class="">
   	<div class="row justify-content-md-center">
-  	<div class="form-group col-lg-4 autocomplete">
+  	<div class="form-group col-lg-4 autocomplete" style="width: 100%;">
   		<input type="text" class="form-control " id="" aria-describedby="searchHelp"  v-model="search"
     @input="onChange">
   		<ul class="autocomplete-results" v-show="isOpen">
