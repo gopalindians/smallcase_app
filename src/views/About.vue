@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <p>Check source code <a href="https://github.com/gopalindians/smallcase_app">gopalindians/smallcase_app</a></p>
   </div>
 </template>
